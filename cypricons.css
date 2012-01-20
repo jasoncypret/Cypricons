@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Cypricons';
+    src: url('fonts/cypricons-webfont.eot');
+    src: url('fonts/cypricons-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/cypricons-webfont.woff') format('woff'),
+         url('fonts/cypricons-webfont.ttf') format('truetype'),
+         url('fonts/cypricons-webfont.svg#ADTMedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
