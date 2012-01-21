@@ -1,10 +1,8 @@
-h1. << CYPRICONS >>
+h1. CYPRICONS
 
-<< web fonts >>
+h2. Compass is not required to view this icon font however the SASS files are provided for those who are not dumb
 
-h2. Compass is not required to view these fonts however the SASS files are provided if you wish to see implimentations
-
-bc. @font-face >>
+bc. @font-face
 
 Copyright (c) 2011 Jason Cypret
 
